@@ -21,7 +21,8 @@ body {
    background-color: rgb(16, 16, 16);
    padding: 14px;
    border-radius: 10px;
-   max-width: 100%;
+   width: 100%;
+   max-width: 315px;
 }
 
 
